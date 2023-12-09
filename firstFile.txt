@@ -1,7 +1,7 @@
-Line 1: apple
-Line 2: banana
-Line 3: new cherry
-Line 4: new mango
+Line 1: new apple
+Line 2: new banana
+Line 3: cherry
+Line 4: mango
 Line 5
 Line 6
 Line 7

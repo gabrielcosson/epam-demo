@@ -1,5 +1,5 @@
-Line 1: apple
-Line 2: banana
+Line 1: new apple
+Line 2: new banana
 Line 3: cherry
 Line 4: mango
 Line 5
